@@ -57,7 +57,13 @@ section {
 
 
 
-.my-resume {}
+.dream {
+    background-image: url(bg/hero-bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-margin: 30px;
+
+}
 
 .resume {
     width: 50%;
