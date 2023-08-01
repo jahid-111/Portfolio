@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+
 }
 
 
@@ -16,6 +17,16 @@ section {
     display: flex;
 
 }
+
+.top-banner {
+    background-image: url();
+    background-repeat: no-repeat;
+
+}
+
+
+
+
 
 .half-width {
     width: 50%;
